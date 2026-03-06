@@ -9,5 +9,5 @@
 * *Shajith Khan*
 * *Vignesh*
 * ### 🔗 Important Links:
-* *🚀 Live Demo Link:*https://f044cafe1bf8512953.gradio.live
+* *🚀 Live Demo Link:*https://b4cda14fc0e4eca5aa.gradio.live
 * *📓 Google Colab Notebook:*https://colab.research.google.com/drive/1XHYBDlMPxtCpsnG3D37RKsem32sYPIOz?usp=sharing 
