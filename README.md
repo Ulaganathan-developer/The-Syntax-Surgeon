@@ -2,6 +2,10 @@
 
 *Project Description:* AI-Powered Python Syntax Checker and Fixer using *IBM Granite 3b Code Instruct* model.
 
+​🎓 Student Details:
+​Course: 3rd Year B.Sc (Computer Science)
+​College: RVS Kumaran Arts and Science College, Ayyalur
+
 ### 👥 Team Members (Ulaganathan & Co):
 * *P. Ulaganathan*
 * *Subash*
